@@ -1,0 +1,47 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7254
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.086 seconds
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Iveta\Desktop\Application\Dissertation_Data\Managed\System.dll (this message is harmless)
+desktop: 3440x1440 60Hz; virtual: 3440x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.709036 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.142616 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 660.
+Total: 1.046647 ms (FindLiveObjects: 0.085332 ms CreateObjectMapping: 0.081299 ms MarkObjects: 0.866672 ms  DeleteObjects: 0.012101 ms)
+
+task One
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+task One22
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+click
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a54 -> priority: 1 
